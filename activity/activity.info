@@ -1,0 +1,6 @@
+[Activity]
+name = Majoras
+bundle_id = org.hpw.majoras
+exec = sugar-activity GameActivity.GameActivity
+icon = mask
+activity_version = 1
